@@ -3,7 +3,6 @@ wget --no-cookies --no-check-certificate --header "Cookie: gpw_e24=http%3A%2F%2F
 
 tar xzvf jdk-8u25-linux-x64.tar.gz
 
-cd /opt/jdk1.8.0_25/
 alternatives --install /usr/bin/java java /opt/jdk1.8.0_25/bin/java 2
 alternatives --config java
 
