@@ -1,4 +1,4 @@
 setup
 =====
 
-Prepare a fresh amazon linux ami for dropwizard, yo.
+Prepare a fresh amazon linux ami for serving apps, yo.
