@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-yum -y install nginx
+apt-get -y install nginx
 mkdir -p /etc/nginx/ssl
 mkdir -p /etc/nginx/logs
 touch /etc/nginx/logs/access.log
